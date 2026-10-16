@@ -74,7 +74,7 @@
     },
     {
       "id": "item|Script|svo (actions dictionary)|Dictionary of actions (affs-defs-misc)|script",
-      "digest": "da3c70dfbcf93680",
+      "digest": "2046aa09986703b8",
       "text": "Script   svo (actions dictionary) Dictionary of actions (affs-defs-misc) [script]"
     },
     {
@@ -178,6 +178,11 @@
       "text": "Script   svo (install, config, pipes, rift, parry, prios) Install system [script]"
     },
     {
+      "id": "item|Script|svo (install, config, pipes, rift, parry, prios)|Pipes|script",
+      "digest": "fc3d7176e1b94e98",
+      "text": "Script   svo (install, config, pipes, rift, parry, prios) Pipes [script]"
+    },
+    {
       "id": "item|Script|svo (install, config, pipes, rift, parry, prios)|Priorities|script",
       "digest": "17a4695e2b53060c",
       "text": "Script   svo (install, config, pipes, rift, parry, prios) Priorities [script]"
@@ -269,7 +274,7 @@
     },
     {
       "id": "item|Script|svo (trigger functions)|Main trigger functions|script",
-      "digest": "72bb1c6240c8019f",
+      "digest": "44483ecdd6e3ff82",
       "text": "Script   svo (trigger functions) Main trigger functions [script]"
     },
     {
@@ -321,6 +326,16 @@
       "id": "item|Trigger|svo (aliases, triggers)|svo/General/svo got eq|highlightFg",
       "digest": "5cbdcae40398b7a1",
       "text": "Trigger  svo (aliases, triggers) svo/General/svo got eq [highlightFg]"
+    },
+    {
+      "id": "item|Trigger|svo (aliases, triggers)|svo/General/svo got tinderbox|script",
+      "digest": "4beb9fcc9425e91d",
+      "text": "Trigger  svo (aliases, triggers) svo/General/svo got tinderbox [script]"
+    },
+    {
+      "id": "item|Trigger|svo (aliases, triggers)|svo/General/svo light pipes|patterns",
+      "digest": "06cced8fd44f8c75",
+      "text": "Trigger  svo (aliases, triggers) svo/General/svo light pipes [patterns]"
     },
     {
       "id": "item|Trigger|svo (aliases, triggers)|svo/Herb tracker/Capture inv|colorTrigger",
